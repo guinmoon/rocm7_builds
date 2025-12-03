@@ -1,5 +1,5 @@
 # Rocm 7 Builds
-Here I will publish my own ROCm builds for various architectures from TheRock repository.
+Here I will publish my own ROCm builds for various architectures [from TheRock repository](https://github.com/ROCm/TheRock).
 
 # Install
 Because the Rocm distribution is too large, I'm only posting PyTorch in the [Release section](https://github.com/guinmoon/rocm7_builds/releases).
