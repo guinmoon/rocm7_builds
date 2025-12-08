@@ -1,7 +1,8 @@
 # Rocm 7 Builds
 Here I will publish my own ROCm builds for various architectures [from TheRock repository](https://github.com/ROCm/TheRock).
 
-# Supported GPUs:
+# Windows builds
+## Supported GPUs:
  * gfx1030 : AMD RX 6800 / XT
  * gfx1031 : AMD RX 6700 / XT
  * gfx1032 : AMD RX 6600
